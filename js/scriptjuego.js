@@ -12,7 +12,7 @@ document.querySelectorAll("#color").forEach(boton => {
     });
 });
 
-let audio = new Audio ("Audio/8-bit-game-158815.mp3");
+let audio = new Audio ("audio/8-bit-game-158815.mp3");
 audio.loop = true;
 
 function sonar(){

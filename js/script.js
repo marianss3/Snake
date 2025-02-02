@@ -12,7 +12,7 @@ document.querySelectorAll("#color").forEach(boton => {
     });
 });
 
-let audio = new Audio ("Audio/chiptune-grooving-142242.mp3");
+let audio = new Audio ("audio/chiptune-grooving-142242.mp3");
 audio.loop = true;
 
 function sonar(){
