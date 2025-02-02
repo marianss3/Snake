@@ -40,7 +40,7 @@ body{
 .juego{
     width: 100%;
     height: 100%;
-    background-image: url("/imagenes/jungle-floor.png");
+    background-image: url("imagenes/jungle-floor.png");
     background-size: cover;
     border: 5px solid black;
     border-radius: 3px;
@@ -50,7 +50,7 @@ body{
 }
 
 .juego .comida{
-    background-image: url("/imagenes/manzana.png");
+    background-image: url("imagenes/manzana.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -58,7 +58,7 @@ body{
 }
 
 .juego .cabeza{
-    background-image: url("/imagenes/cabeza.png");
+    background-image: url("imagenes/cabeza.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -68,7 +68,7 @@ body{
 }
 
 .juego .cuerpo{
-    background-image: url("/imagenes/cuerpo.png");
+    background-image: url("imagenes/cuerpo.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
